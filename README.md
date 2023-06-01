@@ -16,7 +16,7 @@ Sobre mi :smiley:
 - Me apasiona Interactuar con mi audiencia y crear contenido que les resulte interesante y entretenido.
 - Aspiro a ser Programador y poder vivir de ello.
 - Soy una persona ordenada, empática y confiable, Buscando nuevas Experiencias Laborales.
-- Actualmente estoy practicando y estudiando diversos lenguajes por mi cuenta, así cómo empezando hacer proyectos.
+- Actualmente estoy practicando y estudiando diversos lenguajes por mi cuenta, así cómo empezando a hacer proyectos.
 
 <br><br>
 
