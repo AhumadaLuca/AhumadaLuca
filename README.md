@@ -52,7 +52,7 @@
   -**Base de Datos**:
   
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+  ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-00000F?style=for-the-badge&logo=heidisql&logoColor=white)
   
   <br>
   
