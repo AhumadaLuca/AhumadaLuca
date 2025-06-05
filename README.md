@@ -11,11 +11,11 @@
 
 <br>
 
-- Tengo 20 años, en mi tiempo libre disfruto hacer transmisiones en vivo en Twitch.
+- Tengo 21 años, en mi tiempo libre disfruto hacer transmisiones en vivo en Twitch.
 - Me apasiona Interactuar con mi audiencia y crear contenido que les resulte interesante y entretenido.
 - Aspiro a ser Programador y poder vivir de ello.
 - Soy una persona ordenada, empática y confiable, Buscando nuevas Experiencias Laborales.
-- Actualmente estoy practicando y estudiando diversos lenguajes por mi cuenta, así cómo empezando a hacer proyectos.
+- Actualmente estoy estudiando una Tecnicatura Superior en Desarrollo de Software.
 
 <br><br>
 
